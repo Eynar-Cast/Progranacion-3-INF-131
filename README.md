@@ -1,3 +1,62 @@
+# 📘 Resolución de Ejercicios - Estructuras de Datos en Java
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+Este repositorio contiene la **resolución de ejercicios prácticos de Estructuras de Datos**, desarrollados como apoyo al aprendizaje de la materia.  
+Las soluciones fueron escritas en el lenguaje **Java**, utilizando el entorno de desarrollo **NetBeans**.  
+Autor: **Eynar-Cast**
+
+---
+
+## 📚 Temas Abordados
+
+### 🔹 Pilas y Colas
+
+- Pilas (Stacks)
+- Colas simples (Queues)
+- Colas múltiples
+- Colas circulares
+- Colas múltiples circulares
+
+### 🔹 Recursividad
+
+- Ejercicios clásicos (factorial, fibonacci, potencias)
+- Aplicación en estructuras de datos
+
+### 🔹 Listas Enlazadas
+
+- Listas simples
+- Listas dobles
+- Listas múltiples (simples y dobles)
+
+### 🔹 Árboles y Bosques
+
+- Árboles generales
+- Bosques
+- Árboles binarios:
+  - Recorrido **Preorden**
+  - Recorrido **Inorden**
+  - Recorrido **Postorden**
+  - Recorrido **por niveles**
+
+---
+
+## 🧰 Herramientas Utilizadas
+
+| Herramienta  | Descripción |
+|--------------|-------------|
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | Lenguaje de programación usado |
+| ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat) | IDE para desarrollo y pruebas |
+| ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) | Alojamiento del repositorio (opcional) |
+
+---
+
+## 📁 Organización de los ejercicios
+
+Cada conjunto de ejercicios está organizado por carpeta o paquete:
+
 
 ---
 
